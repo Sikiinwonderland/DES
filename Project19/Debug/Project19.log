@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\Windows Kits\Project19\源.cpp(271,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project19.vcxproj -> E:\Windows Kits\Project19\Debug\Project19.exe
