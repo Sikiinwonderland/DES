@@ -69,8 +69,11 @@
 
 ### 5.封闭测试
 在进行暴力破解时，发现同一组明密文对可能存在多个密钥, 即：对于明文空间内任意给定的明文分组，确实存在可能性，即选择不同的密钥，加密可以得到相同的密文。 因此我们使用封闭测试的方法来验证我们的程序的正确性。
+
 ![image](https://github.com/Sikiinwonderland/DES/assets/147130898/0bf496ac-7041-4929-8d21-b6698e63a2e3)
+
 ![image](https://github.com/Sikiinwonderland/DES/assets/147130898/4d719f8f-b7f7-484d-9422-88dd83226014)
+
 ![image](https://github.com/Sikiinwonderland/DES/assets/147130898/6ea92b2b-1f3b-4e41-a9bd-7c06e0e796fc)
 
 ## 三.开发手册
